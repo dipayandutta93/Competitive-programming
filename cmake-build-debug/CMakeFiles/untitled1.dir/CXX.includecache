@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dipayandutta/CLionProjects/untitled1/parity_of_numbers.cpp
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+
